@@ -9,4 +9,7 @@ Objective:
   The year, quarter and index are written on one line in aligned columns. Use csv standards so that the file can easily be imported into another application
 - The program should read a file with monthly data. The months in the file are encoded with a number.
 
-2. 
+2. Seismic Detection Program
+Objective:
+- Accept the data from seismic text file, and then read the amount of data and the interval, and then create an appropriate array to store the data that's being read.
+- Pass the data to seismFunct.h that will calculate the total of possible seismic events

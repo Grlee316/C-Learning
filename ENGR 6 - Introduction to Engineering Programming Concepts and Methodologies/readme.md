@@ -2,7 +2,7 @@
 This Part of the repository will show the program that I wrote or modify in the class. This class incorporate both C and C++. We also use Arduino as an integral part of this class. 
 
 ## Contains:
-### 1. Pacific Weather Program
+### 1. [Pacific Weather Program](https://github.com/Grlee316/C-Learning/tree/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Pacific%20Weather%20Program#pacific-weather-program)
 Objective:
 - reads a data file (Oceandata.txt) that contains the year, quarter, and ENSO index for that period of time. Use dynamic memory to set the size of the array at run-time.
 - Determine and print to the screen the year and quarter with the strongest El Niño and La Niña conditions.

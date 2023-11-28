@@ -1,7 +1,7 @@
 # Seismic Detection Program
 
-### To Run This Program:
-https://onlinegdb.com/HKl0mEgdH
+### To Run This Program Click the link below:
+[Seismic Detection Program](https://onlinegdb.com/HKl0mEgdH)
 
 ### Objective:
 - Accept the data from seismic text file, and then read the amount of data and the interval, and then create an appropriate array to store the data that's being read.

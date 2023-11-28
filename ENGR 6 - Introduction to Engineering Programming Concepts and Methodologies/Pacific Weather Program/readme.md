@@ -1,7 +1,7 @@
 # Pacific Weather Program
 
-### To run this program:
-https://onlinegdb.com/lrSBu3iPT
+### To run this program click the link below:
+[Pacific Weather Program](https://onlinegdb.com/lrSBu3iPT)
 
 ### Objective:
 -	Allow the user to enter the size of the dice, the number of dice to roll in a single throw, the number of throws to make.

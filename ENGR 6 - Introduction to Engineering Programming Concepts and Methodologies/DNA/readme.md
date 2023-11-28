@@ -1,4 +1,5 @@
-# DNA Strings *modified
+# DNA Strings
+This project is a modified version of the code given in the class
 
 ## To test this code, click the link below:
 [DNA](https://onlinegdb.com/S-k77QjaGP)

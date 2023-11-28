@@ -28,3 +28,11 @@ Objective:
 - Save the results of the dice rolls to a file (to allow for verification of the program).
 - The file should have an opening header line that indicates size (number of sides) of the dice rolled.
 - Then calculate the mean roll, the median roll, the standard deviation for the total number of rolls made
+
+### 5. [DNA Strings](https://github.com/Grlee316/C-Learning/blob/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/DNA/readme.md)
+Objective:
+- use either the index or pointer version as a starting point
+- Modify the program so that it will work with either lowercase or uppercase characters.
+- Modify the program so that it checks to be sure that the length of the short string is less than the length of the long string.
+- Store the results of the search to a file as well as to the screen.
+- Run the program on the provided DNA sequence file. Search for the short string AACAT

@@ -9,6 +9,6 @@ Just me trying to learn c languages and put what I had learned so far
   3. [Seismic Detection Program](https://github.com/Grlee316/C-Learning/blob/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Seismic%20Detection%20Program/readme.md)
   4. [Random Number and Statistics](https://github.com/Grlee316/C-Learning/blob/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Random%20Numbers%20and%20Statistics/readme.md)
  
-=============================================================================================
+===========================================================================================
 #### Disclaimer:
 The code will not work out of the box to prevent plagarism and the usage by students who are trying to reuse the code

@@ -4,8 +4,8 @@
 [Random Number](https://onlinegdb.com/7pHBRH1Ti)
 
 ### Objective:
-- reads a data file (Oceandata.txt) that contains the year, quarter, and ENSO index for that period of time. Use dynamic memory to set the size of the array at run-time.
-- Determine and print to the screen the year and quarter with the strongest El Niño and La Niña conditions.
-- Write to an output file named Elnino15.dat all the years and quarters and index value in which the El Nino conditions averaged stronger than 1.0 (greater than 1.0).
-  The year, quarter and index are written on one line in aligned columns. Use csv standards so that the file can easily be imported into another application
-- The program should read a file with monthly data. The months in the file are encoded with a number.
+- Allow the user to enter the size of the dice, the number of dice to roll in a single throw, the number of throws to make.
+-	Save the results of the dice rolls to a file (to allow for verification of the program).  
+-	The file should have an opening header line that indicates size (number of sides) of the dice rolled.  
+-	Then calculate the mean roll, the median roll, the standard deviation for the total number 
+  of rolls made (if you wish you can store this in the files as well as showing them on the screen).

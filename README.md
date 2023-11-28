@@ -1,7 +1,7 @@
 Just me trying to learn c languages and put what I had learned so far
 
 ### list of Classes I took:
-- ENGR 6 - Introduction to Engineering Programming Concepts and Methodologies (Beginners - Intermediate)
+- EGR 6 - Introduction to Engineering Programming Concepts and Methodologies (Beginners - Intermediate)
   
   Projects:
   1. [Pacific Weather Program](https://github.com/Grlee316/C-Learning/tree/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Pacific%20Weather%20Program#pacific-weather-program)

@@ -1,7 +1,7 @@
 # Peak Detection Program
 
-### To Run This Program:
-https://onlinegdb.com/FmSjJwNMw
+### To Run This Program please click the link below:
+[Peak Detection](https://onlinegdb.com/FmSjJwNMw)
 
 ### Objective:
 - This program will read the data provided by user in a form of text file, and then will read the amount of rows and column provided.

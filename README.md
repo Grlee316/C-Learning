@@ -11,4 +11,4 @@ Just me trying to learn c languages and put what I had learned so far
  
 ===========================================================================================
 #### Disclaimer:
-The code will not work out of the box to prevent plagarism and the usage by students who are trying to reuse the code
+The code will not work out of the box to prevent plagarism and the usage by students who are trying to reuse the code, to run the code and to see it works, go to the link given and it will take you to the online compiler website. 

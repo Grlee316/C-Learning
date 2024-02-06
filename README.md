@@ -1,7 +1,8 @@
 Just me trying to learn C family languages + variations (MATLAB and Arduino) and put what I had learned so far
 
 ### list of Classes I took:
-- ENGR 6 - Introduction to Engineering Programming Concepts and Methodologies (Beginners - Intermediate) C, C++, Arduino
+
+#### - ENGR 6 - Introduction to Engineering Programming Concepts and Methodologies (Beginners - Intermediate) C, C++, Arduino
   
   Projects:
   1. [Pacific Weather Program](https://github.com/Grlee316/C-Learning/tree/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Pacific%20Weather%20Program#pacific-weather-program)
@@ -10,19 +11,19 @@ Just me trying to learn C family languages + variations (MATLAB and Arduino) and
   4. [Random Number and Statistics](https://github.com/Grlee316/C-Learning/blob/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/Random%20Numbers%20and%20Statistics/readme.md)
   5. [DNA Strings](https://github.com/Grlee316/C-Learning/blob/main/ENGR%206%20-%20Introduction%20to%20Engineering%20Programming%20Concepts%20and%20Methodologies/DNA/readme.md)
 
-- ENGR 7 - Programming Applications for Engineers
+#### -  ENGR 7 - Programming Applications for Engineers
 (Beginner - Intermediate) MATLAB
 
-- CSCI 110 - Fundamentals of Computer Science 
+#### -  CSCI 110 - Fundamentals of Computer Science 
 (Beginner - Intermediate) C++
 
-- CSCI 140 - C++ Language and Object Development
+#### -  CSCI 140 - C++ Language and Object Development
 (Intermediate) C++
 
-- CSCI 145 - Java Language and Object Oriented Programming
+#### -  CSCI 145 - Java Language and Object Oriented Programming
 (Intermediate) Java
 
-- ECE 2310 - Object Oriented Programming
+#### -  ECE 2310 - Object Oriented Programming
 (Beginner - Intermediate) C#
 
   Projects:
@@ -52,14 +53,33 @@ Just me trying to learn C family languages + variations (MATLAB and Arduino) and
 
   ![e](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20e%20Estimator.png)
 
+  8. [Random Number Guessing Game](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%206%20-%20Random%20Number%20Guessing%20Game.cs)
 
-- ECE 3301 - Introduction to Microcontrollers
+  9. [Commision Sales Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%206%20-%20Commisioned%20Sales%20Calculator.cs)
+
+  10. [Array Method Search](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%207%20-%20Array%20Method%20Search.cs)
+
+  11. [Random Number Digit Sorter Form](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%208%20-%20Random%20Number%20Digit%20Sorter.cs)
+
+  ![rand](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%208%20-%20Random%20Number%20Digit%20Sorter.png)
+
+  12. [Employee Class](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%209%20-%20Class%20-%20Employee.cs)
+
+  13. [Bank Account Class](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%2010%20-%20Class%20-%20Bank%20Account.cs)
+
+  14. [Grocery List Class](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%2010%20-%20Class%20-%20Grocery%20List.cs)
+
+  15. [Class Inheritance](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%2016%20-%20Class%20Inheritance%20-%20Undergrad%20-%20Grad.cs)
+
+  16. [Pool Cleaner Efficient Move](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%2016%20-%20Final%20-%20Pool%20Cleaner.cs)
+
+#### -  ECE 3301 - Introduction to Microcontrollers
 (Beginner - Intermediate) C and Assembly for PIC18F
 
-- ECE 3310 - Data Structure and Algorithm
+#### -  ECE 3310 - Data Structure and Algorithm
 (Intermediate) C
 
-- ECE 4310 - Operating Systems for Embedded Applications
+#### -  ECE 4310 - Operating Systems for Embedded Applications
 (Intermediate) C
 
 

@@ -25,24 +25,32 @@ Just me trying to learn C family languages + variations (MATLAB and Arduino) and
 - ECE 2310 - Object Oriented Programming
 (Beginner - Intermediate) C#
 
-Projects:
-1. [Form Application - Grade Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.cs)
+  Projects:
+  1. [Form Application - Grade Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.cs)
 
-![Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.png)
+  ![Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.png)
 
-2. [Form Application - Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction.cs)
+  2. [Form Application - Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction.cs)
 
-![Calc](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction%20(Calculator).png)
+  ![Calc](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction%20(Calculator).png)
 
-3. [Area Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Area%20Calculator.cs)
+  3. [Area Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Area%20Calculator.cs)
 
-4. [Letter Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Letter%20Grade.cs)
+  4. [Letter Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Letter%20Grade.cs)
 
-5. [BMI Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20BMI%20Calculator.cs)
+  5. [BMI Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20BMI%20Calculator.cs)
 
-![overweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Overweight%20BMI.png)
+  ![overweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Overweight%20BMI.png)
 
-![underweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Underweight%20BMI.png)
+  ![underweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Underweight%20BMI.png)
+
+  6. [Fibonacci Sequence](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Fibbonaci%20Sequence.cs)
+
+  7. [n! Factorials and E Estimator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20n%20Factorials.cs)
+
+  ![n!](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20n%20Factorials%20Sample.png)
+
+  ![e](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20e%20Estimator.png)
 
 
 - ECE 3301 - Introduction to Microcontrollers

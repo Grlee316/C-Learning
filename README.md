@@ -27,8 +27,15 @@ Just me trying to learn C family languages + variations (MATLAB and Arduino) and
 
 Projects:
 1. [Form Application - Grade Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.cs)
+![Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Grade%20Calculator.png)
 2. [Form Application - Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction.cs)
+![Calc](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%202%20-%20Form%20Application%20-%20Introduction%20(Calculator).png)
 3. [Area Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Area%20Calculator.cs)
+4. [Letter Grade](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%203%20-%20Letter%20Grade.cs)
+5. [BMI Calculator](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20BMI%20Calculator.cs)
+![overweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Overweight%20BMI.png)
+![underweight](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%204%20-%20Underweight%20BMI.png)
+
 
 - ECE 3301 - Introduction to Microcontrollers
 (Beginner - Intermediate) C and Assembly for PIC18F

@@ -59,7 +59,7 @@ Just me trying to learn C family languages + variations (MATLAB and Arduino) and
 
   10. [Array Method Search](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%207%20-%20Array%20Method%20Search.cs)
 
-  11. [Random Number Digit Sorter Form](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%208%20-%20Random%20Number%20Digit%20Sorter.cs)
+  11. [Random Number Digit Sorter Form](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%206%20-%20Random%20Number%20Guessing%20Game%20Form.cs)
 
   ![rand](/ECE%202310%20-%20Object%20Oriented%20Programming/Week%208%20-%20Random%20Number%20Digit%20Sorter.png)
 
